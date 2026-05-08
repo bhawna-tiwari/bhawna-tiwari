@@ -29,6 +29,8 @@ A fully functional MERN-based e-commerce platform with product listings, user au
 #### 🎓 [Education Website](https://github.com/bhawna-tiwari/Education_Webiste)
 An e-learning platform with student dashboard, course browsing, and interactive UI built with React.
 
+#### 🎓 [Personal Portfolio]( https://github.com/bhawna-tiwari/bhawna-tiwari-portfolio)
+Designed and developed a responsive personal portfolio website to showcase projects, technical skills, and developer journey using React.js and Tailwind CSS.
 ---
 
 ### 📈 Currently Improving
