@@ -3,7 +3,6 @@
 I'm a passionate **Full-Stack Web Developer** skilled in the **MERN Stack** and enthusiastic about solving real-world problems through **DSA** and efficient coding practices.
 
 ---
-
 ### 🚀 Tech Interests
 
 - Building full-stack web applications using **MongoDB, Express.js, React.js, Node.js**
