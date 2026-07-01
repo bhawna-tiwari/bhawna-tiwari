@@ -50,5 +50,5 @@ Designed and developed a responsive personal portfolio website to showcase proje
 
 ---
 
-⭐ *Thanks for visiting! Feel free to check out my projects and reach out if you’d like to collaborate or connect.*
+Thanks for visiting! Feel free to check out my projects and reach out if you’d like to collaborate or connect.
 
